@@ -14,7 +14,7 @@ const config: Config = {
   url: "https://github.com", 
   baseUrl: "/",
 
-  organizationName: "MuhammadMustafa7022", 
+  organizationName: "Muhamma Ebad", 
   projectName: "AI-Book", 
 
   onBrokenLinks: "warn",
@@ -85,7 +85,7 @@ const config: Config = {
           label: "Docs",
         },
         {
-          href: "https://github.com/MuhammadMustafa7022",
+          href: "https://github.com/muhammad-ebad",
           label: "GitHub",
           position: "right",
         },
@@ -108,11 +108,11 @@ const config: Config = {
           items: [
             {
               label: "LinkedIn",
-              href: "https://www.linkedin.com/in/muhammad-mustafa-a64838294/",
+              href: "https://www.linkedin.com/in/muhammad-ebad-3599722b4/",
             },
             {
               label: "GitHub",
-              href: "https://github.com/MuhammadMustafa7022",
+              href: "https://github.com/muhammad-ebad",
             },
           ],
         },
